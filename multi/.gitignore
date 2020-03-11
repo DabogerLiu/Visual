@@ -1,0 +1,17 @@
+/auto/
+/bias.npy
+/closing.png
+/dilation_gray.png
+/erosion_gray.png
+/grayscale_morph.py
+/initial.png
+/input_image.npy
+/Lena.jpg
+/morph.py
+/Morph_dil.py
+/Morph_ero.py
+/morph_nonflat.py
+/multi.py
+/opening.png
+/predicted_image.npy
+/target_image.npy
